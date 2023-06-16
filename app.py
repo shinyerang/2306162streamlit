@@ -15,9 +15,9 @@ st.write("내가 만든 페이지, 너를 위해 구웠지")
 # streamlit run app.py
 
 # 기능이 실행되는 순서대로 화면에서 표현
-#st.video("https://www.youtube.com/watch?v=SaCheA6Njc4")  # 유튜브 링크
-#st.image("https://cdn.pixabay.com/photo/2023/06/02/14/12/woman-8035772_1280.jpg")  # 인터넷 링크
-#st.image("https://i.imgur.com/jorp5JH.png")  # 인터넷 링크
+st.video("https://www.youtube.com/watch?v=SaCheA6Njc4")  # 유튜브 링크
+st.image("https://cdn.pixabay.com/photo/2023/06/02/14/12/woman-8035772_1280.jpg")  # 인터넷 링크
+st.image("https://i.imgur.com/jorp5JH.png")  # 인터넷 링크
 # 여러 가지 옵션을 넣어서 세부 기능들을 차이
 #st.image("img/img.png")  # 파일 경로 (app.py)
 #st.image(image="img/img.png")  # 키워드를 사용해서...
